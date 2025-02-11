@@ -1,0 +1,7 @@
+- Indoor.
+- Repeated frontal collision tests.
+- Scooter collision with a heavy chair.
+- The scooter impacts with a pair of rolled-up rugs on the floor.
+- Front wheel impact and the scooter lifts up by the rear wheel.
+- Impact speed approximately 10 km/h.
+- ~5 repetitions.

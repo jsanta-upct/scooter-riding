@@ -1,0 +1,2 @@
+- Indoor.
+- Tests with the mobile in hand with periodic shakes.

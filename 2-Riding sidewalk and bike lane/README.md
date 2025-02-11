@@ -1,0 +1,1 @@
+- Outdoor test in the city centre via sidewalk. Then via bike lane.

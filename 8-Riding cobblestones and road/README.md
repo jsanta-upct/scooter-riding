@@ -1,0 +1,5 @@
+- Outdoor.
+- City centre (historic)
+- On a scooter from ETSIT (UPCT) to the sports hall (near Alfonso XIII campus) via the road and crossing cobblestone areas near ETSIT.
+- Getting on and off the sidewalk.
+- 10-20 km/h.

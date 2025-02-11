@@ -1,0 +1,4 @@
+- Outdoor.
+- Riding the scooter in the city centre via the road.
+- Traffic lights, getting on and off the sidewalk.
+- 10-20 km/h.
