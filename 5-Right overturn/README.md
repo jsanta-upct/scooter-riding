@@ -2,4 +2,4 @@
 - Tests of tipping to the right with the initial position of the scooter straight.
 - Falling on a pair of rolled-up rugs.
 - The scooter remains in a normal position for a few seconds and then is allowed to fall to lift it up.
-- ~5 repetitions.
+- 5 repetitions.

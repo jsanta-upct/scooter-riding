@@ -4,4 +4,4 @@
 - The scooter impacts the mat.
 - Front wheel impact and the scooter lifts up by the rear wheel.
 - Impact speed approximately 10 km/h.
-- ~5 repetitions.
+- 5 repetitions.
