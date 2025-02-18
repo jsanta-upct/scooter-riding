@@ -9,3 +9,5 @@ The dataset includes parameters such as acceleration measurements, orientation, 
 - Within each folder, a README file provides pertinent details about the test conducted.
 - Each folder contains a collection of files, one for each parameter collected, all in CSV format.
 Additional multimedia files, such as photos or videos, may be included to help understand specific test scenarios.
+
+DOI 10.5281/zenodo.14851613
